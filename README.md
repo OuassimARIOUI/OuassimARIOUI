@@ -41,25 +41,11 @@ Je suis un développeur junior spécialisé en intelligence artificielle et dév
 ---
 
 ## 📊 Statistiques GitHub
-
-<p align="center">
-  <a href="https://github.com/OuassimARIOUI">
-    <img src="https://github-readme-stats-4t3xjd8f2-ouassimariouis-projects.vercel.app/api?username=OuassimARIOUI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/OuassimARIOUI">
     <img src="https://streak-stats.demolab.com/?user=OuassimARIOUI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/OuassimARIOUI">
-    <img src="https://github-readme-stats-4t3xjd8f2-ouassimariouis-projects.vercel.app/api/top-langs/?username=OuassimARIOUI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
-
 ---
 
 ## 🎓 Formation
