@@ -46,6 +46,7 @@ Je suis un développeur junior spécialisé en intelligence artificielle et dév
     <img src="https://streak-stats.demolab.com/?user=OuassimARIOUI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
+
 ---
 
 ## 🎓 Formation
