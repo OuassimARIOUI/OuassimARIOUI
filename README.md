@@ -1,14 +1,14 @@
 # 👋 Bonjour, je suis Ouassim Arioui
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ouassim-arioui-a61286259/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]((https://arioui-ouassim-portfolio.netlify.app/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mohamedachrefwassim@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouassim-arioui-a61286259/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arioui-ouassim-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedachrefwassim@gmail.com)
 
 ## 🚀 À propos de moi
 
-> Développeur passionné par l'IA et l'ingenerie logicielle  en france .
+> Développeur passionné par l'IA et l'ingénierie logicielle | France
 
-Je suis un développeur junior spécialisé en [vos domaines]. Passionné par [vos passions tech], je suis constamment à la recherche de nouveaux défis et d'opportunités d'apprentissage.
+Je suis un développeur junior spécialisé en intelligence artificielle et développement full-stack. Passionné par les nouvelles technologies et l'innovation, je suis constamment à la recherche de nouveaux défis et d'opportunités d'apprentissage.
 
 ---
 
@@ -23,7 +23,9 @@ Je suis un développeur junior spécialisé en [vos domaines]. Passionné par [v
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Bases de Données
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -58,17 +60,18 @@ Je suis un développeur junior spécialisé en [vos domaines]. Passionné par [v
 
 | Diplôme | Établissement | Année |
 |---------|---------------|-------|
-| Master ILSEN | CERI Avignon | 2025 |
+| Master ILSEN | CERI Avignon | 2025-2027 |
 | Licence Informatique | CERI Avignon | 2022-2025 |
 
 ---
 
 ## 💼 Expériences Professionnelles
 
-### Stagiére @ LIA (Laboratoire Informatique Avignon)
+### Stagiaire Chez LIA (Laboratoire Informatique Avignon)
 **Mai 2025 - Juin 2025**
-- Test , et comparaisons desstratégies d'apprentissages avec le framework flower
+- Test et comparaisons des stratégies d'apprentissage avec le framework Flower
 - Analyse des résultats des tests et recommandations pour l'optimisation des stratégies d'apprentissage
+
 ---
 
 ## 🏆 Projets Phares
@@ -88,7 +91,7 @@ Je suis un développeur junior spécialisé en [vos domaines]. Passionné par [v
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
       </p>
       <p align="center">
-        <a href="https://github.com/VOTRE_USERNAME/medibot">
+        <a href="https://github.com/OuassimARIOUI/MEDIBOT">
           <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
         </a>
       </p>
@@ -107,7 +110,7 @@ Je suis un développeur junior spécialisé en [vos domaines]. Passionné par [v
         <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://github.com/VOTRE_USERNAME/crypto-trading">
+        <a href="https://github.com/OuassimARIOUI/Crypto_Platform">
           <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
         </a>
       </p>
@@ -129,7 +132,7 @@ Je suis un développeur junior spécialisé en [vos domaines]. Passionné par [v
         <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://github.com/VOTRE_USERNAME/studyhive">
+        <a href="https://github.com/Mohammed-Djellouli/StudyHive">
           <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
         </a>
       </p>
@@ -147,7 +150,7 @@ Je suis un développeur junior spécialisé en [vos domaines]. Passionné par [v
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://github.com/VOTRE_USERNAME/test-orchestration">
+        <a href="https://github.com/OuassimARIOUI/QA">
           <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
         </a>
       </p>
@@ -162,18 +165,19 @@ Je suis un développeur junior spécialisé en [vos domaines]. Passionné par [v
 
 - 🇫🇷 Français - Natif
 - 🇬🇧 Anglais - B2
+
 ---
 
 ## 📫 Me Contacter
 
 <p align="center">
-  <a href="mailto:mohamedachrefwassim@gmail.com">
-    <img src="https://img.shields.io/badge/Email-votre.email%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:votre.email@example.com">
+    <img src="https://img.shields.io/badge/Email-mohamedachrefwassim%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ouassim-arioui-a61286259/">
+  <a href="https://www.linkedin.com/in/ouassim-arioui-a61286259/">
     <img src="https://img.shields.io/badge/LinkedIn-Ouassim_Arioui-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
